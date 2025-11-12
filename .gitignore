@@ -1,0 +1,10 @@
+# Ignore generated outputs and large datasets
+*.pkl
+*.log
+*.json
+*.bak
+user_location.txt
+__pycache__/
+.DS_Store
+.env
+*.db
